@@ -1,8 +1,8 @@
 # <a href="https://harsh-sonker.github.io/Fulduo" target="_blank">Fulduo</a>
 
-![Fulduo Logo](assets/images/Websitescreenshot.png)
+![Folduo Logo](assets/images/Websitescreenshot.png)
 
-Fulduo is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
+Folduo is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
 ## Features
 
@@ -23,7 +23,7 @@ Fulduo is a website that offers custom folder icons for Windows, allowing users 
 
 ### Download Icons
 
-Visit the [Fulduo Website](https://harsh-sonker.github.io/Fulduo) to download custom folder icons for your PC.
+Visit the [Folduo Website](https://harsh-sonker.github.io/Fulduo) to download custom folder icons for your PC.
 
 ### How to Use
 
