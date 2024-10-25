@@ -1,4 +1,4 @@
-# <a href="https://harsh-sonker.github.io/Fulduo" target="_blank">Folduo</a>
+# <a href="https://harsh-sonker.github.io/Folduo/" target="_blank">Folduo</a>
 
 ![Websitescreenshot](https://github.com/user-attachments/assets/0c3f37af-ff15-4997-aacd-0c7a7241108d)
 
