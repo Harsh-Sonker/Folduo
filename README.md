@@ -23,7 +23,7 @@ Folduo is a website that offers custom folder icons for Windows, allowing users 
 
 ### Download Icons
 
-Visit the [Folduo Website](https://harsh-sonker.github.io/Fulduo) to download custom folder icons for your PC.
+Visit the [Folduo Website](https://harsh-sonker.github.io/Folduo/) to download custom folder icons for your PC.
 
 ### How to Use
 
