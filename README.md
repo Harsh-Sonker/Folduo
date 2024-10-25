@@ -1,6 +1,6 @@
 # <a href="https://harsh-sonker.github.io/Fulduo" target="_blank">Folduo</a>
 
-![Folduo Logo](assets/images/Websitescreenshot.png)
+![Folduo Logo](![Websitescreenshot](https://github.com/user-attachments/assets/0c3f37af-ff15-4997-aacd-0c7a7241108d)
 
 Folduo is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
